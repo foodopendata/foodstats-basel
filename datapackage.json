@@ -19,7 +19,179 @@
   ],
   "resources": [
     {
-      "path": "data/food-datasets.csv",
+      "encoding": "utf-8",
+      "mediatype": "text/csv",
+      "profile": "tabular-data-resource",
+      "name": "t07-1-aggregated",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Jahr"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Getreide"
+          },
+          {
+            "format": "default",
+            "type": "string",
+            "name": "Kartoffeln"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Silo-,Gr\u00fcn-mais"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Freiland-gem\u00fcse"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Wiesen und Weiden"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Rebland"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Obstanlagen"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "\u00dcbrige Fl\u00e4chen"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Total"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "davon im Ausland"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Rindvieh"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "davon K\u00fche"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Pferde"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Ponys, Esel"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Schweine"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Schafe"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Ziegen"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Gefl\u00fcgel"
+          },
+          {
+            "format": "default",
+            "type": "string",
+            "name": "Bienenv\u00f6lker"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Landwirtschaftsbetriebe \u2013 Alle"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Landwirtschaftsbetriebe \u2013 hauptber. Landwirte"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Anzahl Betriebe \u2013 0,00-3,00"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Anzahl Betriebe \u2013 3,01-10,00"
+          },
+          {
+            "format": "default",
+            "type": "string",
+            "name": "Anzahl Betriebe \u2013 10,01-20,00"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Anzahl Betriebe \u2013 20,01+"
+          },
+          {
+            "format": "default",
+            "type": "number",
+            "name": "Fl\u00e4che \u2013 pro Betrieb"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Besch\u00e4ftigte \u2013 Vollzeit"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Besch\u00e4ftigte \u2013 Teilzeit"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Besch\u00e4ftigte \u2013 M\u00e4nner"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Besch\u00e4ftigte \u2013 Frauen"
+          },
+          {
+            "format": "default",
+            "type": "integer",
+            "name": "Besch\u00e4ftigte \u2013 Total"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      },
+      "path": "data/t07-1-aggregated.csv"
     }
   ],
   "contributors":[{
