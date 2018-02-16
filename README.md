@@ -1,4 +1,6 @@
-This Data Package was created at the [Open Food Hackdays](http://food.opendata.ch) 2018 in Basel. The metadata here is provided as "best effort", without any guarantee of correctness. To contribute, please visit the [GitHub repository](https://github.com/foodopendata/foodstats-basel/issues/)
+This Data Package was created at the [Open Food Hackdays](http://food.opendata.ch) 2018 in Basel. The metadata here is provided as "best effort", without any guarantee of correctness. To contribute, please visit the [GitHub repository](https://github.com/foodopendata/foodstats-basel/).
+
+[![goodtables.io](https://goodtables.io/badge/github/foodopendata/foodstats-basel.svg)](https://goodtables.io/github/foodopendata/foodstats-basel)
 
 ## Data
 
