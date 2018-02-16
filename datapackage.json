@@ -34,52 +34,62 @@
           {
             "format": "default",
             "type": "integer",
-            "name": "Getreide"
+            "name": "Getreide",
+            "unit": "hectares"
           },
           {
             "format": "default",
             "type": "string",
-            "name": "Kartoffeln"
+            "name": "Kartoffeln",
+            "unit": "hectares"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "Silo-,Gr\u00fcn-mais"
+            "name": "Silo-,Gr\u00fcn-mais",
+            "unit": "hectares"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "Freiland-gem\u00fcse"
+            "name": "Freiland-gem\u00fcse",
+            "unit": "hectares"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "Wiesen und Weiden"
+            "name": "Wiesen und Weiden",
+            "unit": "hectares"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "Rebland"
+            "name": "Rebland",
+            "unit": "hectares"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "Obstanlagen"
+            "name": "Obstanlagen",
+            "unit": "hectares"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "\u00dcbrige Fl\u00e4chen"
+            "name": "\u00dcbrige Fl\u00e4chen",
+            "unit": "hectares"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "Total"
+            "name": "Total",
+            "unit": "hectares"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "davon im Ausland"
+            "name": "davon im Ausland",
+            "unit": "hectares"
           },
           {
             "format": "default",
@@ -139,27 +149,28 @@
           {
             "format": "default",
             "type": "integer",
-            "name": "Anzahl Betriebe \u2013 0,00-3,00"
+            "name": "Anzahl Betriebe \u2013 0,00-3,00 ha"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "Anzahl Betriebe \u2013 3,01-10,00"
+            "name": "Anzahl Betriebe \u2013 3,01-10,00 ha"
           },
           {
             "format": "default",
             "type": "string",
-            "name": "Anzahl Betriebe \u2013 10,01-20,00"
+            "name": "Anzahl Betriebe \u2013 10,01-20,00 ha"
           },
           {
             "format": "default",
             "type": "integer",
-            "name": "Anzahl Betriebe \u2013 20,01+"
+            "name": "Anzahl Betriebe \u2013 20,01+ ha"
           },
           {
             "format": "default",
             "type": "number",
-            "name": "Fl\u00e4che \u2013 pro Betrieb"
+            "name": "Fl\u00e4che \u2013 pro Betrieb",
+            "unit": "hectares"
           },
           {
             "format": "default",
