@@ -1,0 +1,34 @@
+{
+  "name": "foodstats-basel",
+  "title": "Canton of Basel City open government data related to Food",
+  "format": "csv",
+  "datapackage_version": "1.0.0",
+  "last_modified": "2018-02-16",
+  "license": "PDDL-1.0",
+  "licenses": [
+    {
+      "type": "ODC-PDDL-1.0",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Statistics Portal",
+      "web": "http://www.statistik.bs.ch/zahlen/tabellen.html"
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/food-datasets.csv",
+    }
+  ],
+  "contributors":[{
+    "name": "School of Data Switzerland",
+    "email": "info@schoolofdata.ch",
+    "web": "http://schoolofdata.ch"
+  }],
+  "maintainers":[{
+    "name": "Oleg Lavrovsky",
+    "web": "https://github.com/loleg/"
+  }]
+}
