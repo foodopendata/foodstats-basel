@@ -1,6 +1,6 @@
 This Data Package was created at the [Open Food Hackdays](https://hack.opendata.ch/project/170) 2018 in Basel. The metadata here is provided as "best effort", without any guarantee of correctness. Visit our [Datahub.io preview](https://datahub.io/loleg/foodstats-basel) and see how [this was prepared](https://github.com/foodopendata/food-datasets/issues/11). To contribute, please visit the [GitHub repository](https://github.com/foodopendata/foodstats-basel/issues).
 
-[![goodtables.io](https://goodtables.io/badge/github/foodopendata/foodstats-basel.svg)](https://goodtables.io/github/foodopendata/foodstats-basel)
+[![goodtables.io](https://goodtables.io/badge/github/foodopendata/foodstats-basel.svg)](https://goodtables.io/github/foodopendata/foodstats-basel) [![datahub.io](https://img.shields.io/badge/DataHub-io-yellow.svg)](https://datahub.io/loleg/foodstats-basel)
 
 ## Data
 
